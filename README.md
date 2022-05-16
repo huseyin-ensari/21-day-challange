@@ -9,7 +9,7 @@ Starting Date : 10 May 2022
 | **3** | auto text effect | [live](https://21-day.netlify.app/auto-text-effect/index.html) |
 | **4** | mobile tab navigation | [live](https://21-day.netlify.app/mobile-tab-navigation/index.html) |
 | **5** | verify account | [live](https://21-day.netlify.app/verify-account/index.html) |
-| **6** |              |           |
+| **6** | hover board | [live](https://21-day.netlify.app/hover-board/index.html) |
 | **7** |              |           |
 | **8** |              |           |
 | **9** |              |           |
