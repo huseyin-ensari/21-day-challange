@@ -11,7 +11,7 @@ Starting Date : 10 May 2022
 | **5** | verify account | [live](https://21-day.netlify.app/verify-account/index.html) |
 | **6** | hover board | [live](https://21-day.netlify.app/hover-board/index.html) |
 | **7** | expanding cards | [live](https://21-day.netlify.app/expanding-cards/index.html) |
-| **8** |              |           |
+| **8** | hidden search | [live](https://21-day.netlify.app/hidden-search/index.html) |
 | **9** |              |           |
 | **10**|              |           |
 | **11**|              |           |
