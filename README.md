@@ -10,7 +10,7 @@ Starting Date : 10 May 2022
 | **4** | mobile tab navigation | [live](https://21-day.netlify.app/mobile-tab-navigation/index.html) |
 | **5** | verify account | [live](https://21-day.netlify.app/verify-account/index.html) |
 | **6** | hover board | [live](https://21-day.netlify.app/hover-board/index.html) |
-| **7** |              |           |
+| **7** | expanding cards | [live](https://21-day.netlify.app/expanding-cards/index.html) |
 | **8** |              |           |
 | **9** |              |           |
 | **10**|              |           |
