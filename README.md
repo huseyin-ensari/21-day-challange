@@ -13,7 +13,7 @@ Starting Date : 10 May 2022
 | **7** | expanding cards | [live](https://21-day.netlify.app/expanding-cards/index.html) |
 | **8** | hidden search | [live](https://21-day.netlify.app/hidden-search/index.html) |
 | **9** | drag n drop | [live](https://21-day.netlify.app/drag-n-drop/index.html) |
-| **10**|              |           |
+| **10**| side navigation buttons | [live](https://21-day.netlify.app/side-navigation-buttons/index.html) |
 | **11**|              |           |
 | **12**|              |           |
 | **13**|              |           |

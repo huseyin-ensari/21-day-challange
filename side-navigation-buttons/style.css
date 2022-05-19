@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;  
+}
+
+.content {
+    margin-left: 80px;
+    margin-top: 80px;
+}
+
+.side__nav a{
+    position: absolute;
+    left: -90px;
+    transition: 0.3s;
+    padding: 15px;
+    width: 130px;
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+    border-radius: 0 5px 5px 0;
+}
+
+.side__nav a:hover {
+    left: 0;
+}
+
+#about {
+    top: 20px;
+    background-color: green;
+}
+
+#blog {
+    top: 80px;
+    background-color: rgb(94, 94, 207);
+}
+
+#projects {
+    top: 140px;
+    background-color: rgb(200, 67, 67);
+}
+
+#contact {
+    top: 200px;
+    background-color: rgb(115, 115, 115);
+}
