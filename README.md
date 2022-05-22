@@ -15,7 +15,7 @@ Starting Date : 10 May 2022
 | **9** | drag n drop | [live](https://21-day.netlify.app/drag-n-drop/index.html) |
 | **10**| side navigation buttons | [live](https://21-day.netlify.app/side-navigation-buttons/index.html) |
 | **11**| full screen overlay navigation | [live](https://21-day.netlify.app/full-screen-overlay-navigation/index.html) |
-| **12**|              |           |
+| **12**| image carousel | [live](https://21-day.netlify.app/image-carousel/index.html) |
 | **13**|              |           |
 | **14**|              |           |
 | **15**|              |           |
