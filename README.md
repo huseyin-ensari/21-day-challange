@@ -18,7 +18,7 @@ Starting Date : 10 May 2022
 | **12**| image carousel | [live](https://21-day.netlify.app/image-carousel/index.html) |
 | **13**| flip credit card | [live](https://21-day.netlify.app/flip-credit-card/index.html) |
 | **14**| quiz app | [live](https://21-day.netlify.app/quiz-app/index.html) |
-| **15**|              |           |
+| **15**| good cheap fast | [live](https://21-day.netlify.app/good-cheap-fast/index.html) |
 | **16**|              |           |
 | **17**|              |           |
 | **18**|              |           |
