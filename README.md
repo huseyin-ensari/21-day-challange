@@ -21,7 +21,7 @@ Starting Date : 10 May 2022
 | **15**| good cheap fast | [live](https://21-day.netlify.app/good-cheap-fast/index.html) |
 | **16**| drink water | [live](https://21-day.netlify.app/drink-water/index.html) |
 | **17**| blurry loading | [live](https://21-day.netlify.app/blurry-loading/index.html) |
-| **18**|              |           |
+| **18**| read more button | [live](https://21-day.netlify.app/read-more-button/index.html) |
 | **19**|              |           |
 | **20**|              |           |
 | **21**|              |           |

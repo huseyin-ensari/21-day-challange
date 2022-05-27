@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #E9D5CA;
+    color: #363062;
+}
+
+button {
+    background-color: #827397;
+    color: #E9D5CA;
+    padding: 10px 20px;
+    font-size: 15px;
+    margin-top: 10px;
+    outline: none;
+}
+
+button:hover {
+    background-color: #E9D5CA;
+    color: #827397;
+}
+
+.container {
+    border: 3px solid tomato;
+    width: 50vw;
+    padding: 50px;
+}
+
+#more {
+    display: none;
+}
