@@ -22,6 +22,6 @@ Starting Date : 10 May 2022
 | **16**| drink water | [live](https://21-day.netlify.app/drink-water/index.html) |
 | **17**| blurry loading | [live](https://21-day.netlify.app/blurry-loading/index.html) |
 | **18**| read more button | [live](https://21-day.netlify.app/read-more-button/index.html) |
-| **19**| scroll indicator | [live](/scroll-indicator/index.html) |
-| **20**|              |           |
+| **19**| scroll indicator | [live](https://21-day.netlify.app/scroll-indicator/index.html) |
+| **20**| timeline | [live](https://21-day.netlify.app/timeline/index.html) |
 | **21**|              |           |
