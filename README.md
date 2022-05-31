@@ -24,4 +24,4 @@ Starting Date : 10 May 2022
 | **18**| read more button | [live](https://21-day.netlify.app/read-more-button/index.html) |
 | **19**| scroll indicator | [live](https://21-day.netlify.app/scroll-indicator/index.html) |
 | **20**| timeline | [live](https://21-day.netlify.app/timeline/index.html) |
-| **21**|              |           |
+| **21**| loader | [live](https://21-day.netlify.app/loader/index.html) |
